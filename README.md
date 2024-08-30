@@ -6,7 +6,7 @@ A list of important resources to keep in mind
     - [Awesome C Libraries](https://github.com/oz123/awesome-c).
 
 # Books:
-    -
+    -Crafting Interpreters[Course](https://craftinginterpreters.com/introduction.html#the-first-interpreter).
     -
     -
     -

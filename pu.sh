@@ -1,3 +1,3 @@
 git add *
 git commit -m ziopera
-git push
+git push origin main

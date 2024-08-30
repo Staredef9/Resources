@@ -15,3 +15,5 @@ A list of important resources to keep in mind
     -
     -
     -
+# Free Courses:
+    - Course to make [TextEditor in C](https://viewsourcecode.org/snaptoken/kilo/01.setup.html).

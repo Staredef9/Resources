@@ -7,6 +7,12 @@ A list of important resources to keep in mind
 ## Books:
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html#the-first-interpreter)
 
+## Articles and Papers:
+- [How Browsers work](https://web.dev/articles/howbrowserswork?hl=it)
+- [Definition of Web Browser](https://www.geeksforgeeks.org/web-browser-engine-definition-working/)
+- [Build your own Web Engine](https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html)
+
+
 ## Free Courses:
 - [Course to make a Text Editor in C](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)
 - [Learn OpenGL](https://learnopengl.com/Getting-started/Hello-Triangle)
@@ -14,6 +20,7 @@ A list of important resources to keep in mind
 - [JavaScript Guide](https://www.html.it/javascript/)
 - [Java Guide](https://www.html.it/java/)
 - [Matematica di base](https://www.cisiaonline.it/archivio-mooc/home/)
+- [NEURAL NETWORKS ANDREJ KARPATHY](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 
 
 ## Important Sites:
 - [Handmade Network](https://handmade.network/m/Wassimulator)

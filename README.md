@@ -4,6 +4,7 @@ A list of important resources to keep in mind
 ## Other Repositories:
 - [Awesome C Libraries](https://github.com/oz123/awesome-c)
 - [NuklearGui C Lib](https://github.com/Immediate-Mode-UI/Nuklear?tab=readme-ov-file);
+- [Nothing STB Lib - Sean Barrett](https://github.com/nothings/stb)
 
 ## Tools:
 - [Compiler Explorer](https://www.godbolt.org/)

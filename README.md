@@ -4,6 +4,9 @@ A list of important resources to keep in mind
 ## Other Repositories:
 - [Awesome C Libraries](https://github.com/oz123/awesome-c)
 
+## Tools:
+- [Compiler Explorer](https://www.godbolt.org/)
+
 ## Books:
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html#the-first-interpreter)
 

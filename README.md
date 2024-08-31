@@ -26,7 +26,7 @@ A list of important resources to keep in mind
 ## Important Sites:
 - [Handmade Network](https://handmade.network/m/Wassimulator)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- 
+- [CERN:Brief history of the web](https://home.cern/science/computing/birth-web/short-history-web) 
 
 ## WINDOWS Programming Resources:
 - [Enable MSVC compilation](https://learn.microsoft.com/en-us/cpp/build/how-to-enable-a-64-bit-visual-cpp-toolset-on-the-command-line?view=msvc-170#use-vcvarsallbat-to-set-a-64-bit-hosted-build-architecture)

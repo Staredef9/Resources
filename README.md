@@ -5,6 +5,8 @@ A list of important resources to keep in mind
 - [Awesome C Libraries](https://github.com/oz123/awesome-c)
 - [NuklearGui C Lib](https://github.com/Immediate-Mode-UI/Nuklear?tab=readme-ov-file);
 - [Nothing STB Lib - Sean Barrett](https://github.com/nothings/stb)
+- [Dear IMGUI](https://github.com/ocornut/imgui)
+
 
 ## Tools:
 - [Compiler Explorer](https://www.godbolt.org/)

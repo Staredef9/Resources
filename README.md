@@ -21,9 +21,12 @@ A list of important resources to keep in mind
 - [Java Guide](https://www.html.it/java/)
 - [Matematica di base](https://www.cisiaonline.it/archivio-mooc/home/)
 - [NEURAL NETWORKS ANDREJ KARPATHY](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 
+- [HANDMADE HERO COMPLETE](https://www.youtube.com/playlist?list=PLRj_OtTNsCWt8C1KTXCumLMmERs4j_TQO)
 
 ## Important Sites:
 - [Handmade Network](https://handmade.network/m/Wassimulator)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- 
 
 ## WINDOWS Programming Resources:
 - [Enable MSVC compilation](https://learn.microsoft.com/en-us/cpp/build/how-to-enable-a-64-bit-visual-cpp-toolset-on-the-command-line?view=msvc-170#use-vcvarsallbat-to-set-a-64-bit-hosted-build-architecture)

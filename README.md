@@ -22,6 +22,7 @@ A list of important resources to keep in mind
 - [Matematica di base](https://www.cisiaonline.it/archivio-mooc/home/)
 - [NEURAL NETWORKS ANDREJ KARPATHY](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 
 - [HANDMADE HERO COMPLETE](https://www.youtube.com/playlist?list=PLRj_OtTNsCWt8C1KTXCumLMmERs4j_TQO)
+- [Learn LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX?)
 
 ## Important Sites:
 - [Handmade Network](https://handmade.network/m/Wassimulator)

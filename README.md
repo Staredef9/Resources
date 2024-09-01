@@ -26,6 +26,7 @@ A list of important resources to keep in mind
 - [Course to make a Text Editor in C](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)
 - [Learn OpenGL](https://learnopengl.com/Getting-started/Hello-Triangle)
 - [HTML5 Guide](https://www.html.it/guide/guida-html5/)
+- [HTML.COM](https://html.com/)
 - [JavaScript Guide](https://www.html.it/javascript/)
 - [Java Guide](https://www.html.it/java/)
 - [Matematica di base](https://www.cisiaonline.it/archivio-mooc/home/)

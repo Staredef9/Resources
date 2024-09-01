@@ -4,6 +4,12 @@ A list of important resources to keep in mind
 ## Other Repositories:
 - [Awesome C Libraries](https://github.com/oz123/awesome-c)
 - [NETWORK PROGRAMMING](https://github.com/rumaniel/Awesome-Game-Networking)
+- [NuklearGui C Lib](https://github.com/Immediate-Mode-UI/Nuklear?tab=readme-ov-file);
+- [Nothing STB Lib - Sean Barrett](https://github.com/nothings/stb)
+- [Dear IMGUI](https://github.com/ocornut/imgui)
+- [LVGL Low Level GUI](https://github.com/lvgl/lvgl)
+- [Raylib](https://www.raylib.com/index.html)
+
 ## Tools:
 - [Compiler Explorer](https://www.godbolt.org/)
 

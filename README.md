@@ -3,7 +3,7 @@ A list of important resources to keep in mind
 
 ## Other Repositories:
 - [Awesome C Libraries](https://github.com/oz123/awesome-c)
-
+- [NETWORK PROGRAMMING](https://github.com/rumaniel/Awesome-Game-Networking)
 ## Tools:
 - [Compiler Explorer](https://www.godbolt.org/)
 

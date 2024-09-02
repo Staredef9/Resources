@@ -15,7 +15,7 @@ A list of important resources to keep in mind
 
 ## Books:
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html#the-first-interpreter)
-
+- [Intro to graphics programming](https://paroj.github.io/gltut/Basics/Introduction.html)
 ## Articles and Papers:
 - [How Browsers work](https://web.dev/articles/howbrowserswork?hl=it)
 - [Definition of Web Browser](https://www.geeksforgeeks.org/web-browser-engine-definition-working/)

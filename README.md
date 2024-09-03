@@ -16,6 +16,7 @@ A list of important resources to keep in mind
 ## Books:
 - [Nand2Tetris - Crea un OS](https://www.nand2tetris.org/)
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html#the-first-interpreter)
+- [ScratchAPixel](https://www.scratchapixel.com/index.html)
 - [Intro to graphics programming](https://paroj.github.io/gltut/Basics/Introduction.html)
 - [Vulkan Tutorial](https://docs.vulkan.org/tutorial/latest/00_Introduction.html)
 - [LearnCPP](https://www.learncpp.com/?utm_content=cmp-true)

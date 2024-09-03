@@ -27,7 +27,7 @@ A list of important resources to keep in mind
 - [How Browsers work](https://web.dev/articles/howbrowserswork?hl=it)
 - [Definition of Web Browser](https://www.geeksforgeeks.org/web-browser-engine-definition-working/)
 - [Build your own Web Engine](https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html)
-
+- [Onboarding on Floating Points](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0&utm_campaign=post&utm_medium=web)
 
 ## Free Courses:
 - [Course to make a Text Editor in C](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)
@@ -40,6 +40,11 @@ A list of important resources to keep in mind
 - [NEURAL NETWORKS ANDREJ KARPATHY](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 
 - [HANDMADE HERO COMPLETE](https://www.youtube.com/playlist?list=PLRj_OtTNsCWt8C1KTXCumLMmERs4j_TQO)
 - [Learn LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX?)
+- [Mike Acton Substack](https://substack.com/@macton)
+
+## Paid Courses:
+- [Casey Muratori Performance Oriented programming](https://www.computerenhance.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
+
 
 ## Important Sites:
 - [Handmade Network](https://handmade.network/m/Wassimulator)

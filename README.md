@@ -27,7 +27,7 @@ A list of important resources to keep in mind
 - [How Browsers work](https://web.dev/articles/howbrowserswork?hl=it)
 - [Definition of Web Browser](https://www.geeksforgeeks.org/web-browser-engine-definition-working/)
 - [Build your own Web Engine](https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html)
-
+- [ARXIV Database](https://arxiv.org/)
 
 ## Free Courses:
 - [Course to make a Text Editor in C](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)

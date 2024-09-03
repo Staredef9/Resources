@@ -28,6 +28,7 @@ A list of important resources to keep in mind
 - [Definition of Web Browser](https://www.geeksforgeeks.org/web-browser-engine-definition-working/)
 - [Build your own Web Engine](https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html)
 - [Onboarding on Floating Points](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0&utm_campaign=post&utm_medium=web)
+- [ARXIV Database](https://arxiv.org/)
 
 ## Free Courses:
 - [Course to make a Text Editor in C](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)

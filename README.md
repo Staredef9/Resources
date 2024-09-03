@@ -45,6 +45,7 @@ A list of important resources to keep in mind
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [CERN:Brief history of the web](https://home.cern/science/computing/birth-web/short-history-web) 
 - [OSDev](https://wiki.osdev.org/Expanded_Main_Page)
+- [DataGubbe](https://www.datagubbe.se/)
 
 ## Important Videos:
 - [The Genius Of George Boole](https://www.youtube.com/watch?v=Hljir_TyTEw)

@@ -33,6 +33,7 @@ A list of important resources to keep in mind
 - [ARXIV Database](https://arxiv.org/)
 
 ## Free Courses:
+- [Dave Churchill - Lezioni Uni](https://www.youtube.com/@DaveChurchill/playlists)
 - [Course to make a Text Editor in C](https://viewsourcecode.org/snaptoken/kilo/01.setup.html)
 - [Learn OpenGL](https://learnopengl.com/Getting-started/Hello-Triangle)
 - [HTML5 Guide](https://www.html.it/guide/guida-html5/)
@@ -44,6 +45,7 @@ A list of important resources to keep in mind
 - [HANDMADE HERO COMPLETE](https://www.youtube.com/playlist?list=PLRj_OtTNsCWt8C1KTXCumLMmERs4j_TQO)
 - [Learn LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX?)
 - [Mike Acton Substack](https://substack.com/@macton)
+- [NN from Scratch](https://www.youtube.com/playlist?list=PLPz3O_BKtnTCoJlcRIrhtQ7CDewWhzI7x)
 
 ## Paid Courses:
 - [Casey Muratori Performance Oriented programming](https://www.computerenhance.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)

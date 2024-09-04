@@ -22,6 +22,8 @@ A list of important resources to keep in mind
 - [Vulkan Tutorial](https://docs.vulkan.org/tutorial/latest/00_Introduction.html)
 - [LearnCPP](https://www.learncpp.com/?utm_content=cmp-true)
 - [Reintroduction to ASM](https://www.0de5.net/stimuli/a-reintroduction-to-programming/instructions/assembly-essentials)
+- [Let over Lambda](https://letoverlambda.com/index.cl/toc)
+- [Loving Common Lisp](https://leanpub.com/lovinglisp/read#leanpub-auto-why-did-i-write-this-book)
 
 ## Articles and Papers:
 - [How Browsers work](https://web.dev/articles/howbrowserswork?hl=it)

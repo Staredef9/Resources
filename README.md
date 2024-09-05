@@ -47,6 +47,8 @@ A list of important resources to keep in mind
 - [Learn LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX?)
 - [Mike Acton Substack](https://substack.com/@macton)
 - [NN from Scratch](https://www.youtube.com/playlist?list=PLPz3O_BKtnTCoJlcRIrhtQ7CDewWhzI7x)
+- [GPU differences](https://www.youtube.com/watch?v=uBtuMsAY7J8)
+
 
 ## Paid Courses:
 - [Casey Muratori Performance Oriented programming](https://www.computerenhance.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)

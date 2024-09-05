@@ -31,6 +31,7 @@ A list of important resources to keep in mind
 - [Build your own Web Engine](https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html)
 - [Onboarding on Floating Points](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0&utm_campaign=post&utm_medium=web)
 - [ARXIV Database](https://arxiv.org/)
+- [PHOTOSHOP 1.0 SOURCE CODE](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 
 ## Free Courses:
 - [Dave Churchill - Lezioni Uni](https://www.youtube.com/@DaveChurchill/playlists)

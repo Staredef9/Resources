@@ -48,7 +48,7 @@ A list of important resources to keep in mind
 - [Mike Acton Substack](https://substack.com/@macton)
 - [NN from Scratch](https://www.youtube.com/playlist?list=PLPz3O_BKtnTCoJlcRIrhtQ7CDewWhzI7x)
 - [GPU differences](https://www.youtube.com/watch?v=uBtuMsAY7J8)
-
+- [UI](https://nakst.gitlab.io/tutorial/ui-part-1.html)
 
 ## Paid Courses:
 - [Casey Muratori Performance Oriented programming](https://www.computerenhance.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)

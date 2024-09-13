@@ -25,7 +25,7 @@ A list of important resources to keep in mind
 - [Let over Lambda](https://letoverlambda.com/index.cl/toc)
 - [Loving Common Lisp](https://leanpub.com/lovinglisp/read#leanpub-auto-why-did-i-write-this-book)
 - [Eric Lengyel](https://terathon.com/lengyel/)
-
+- [100r](https://100r.co/site/weathering_software_winter.html)
 
 ## Articles and Papers:
 - [How Browsers work](https://web.dev/articles/howbrowserswork?hl=it)
